@@ -8,7 +8,6 @@ display: block;
 }
 
 .nav_links{
-    background-color: khaki;
     width:inherit;
     display: flex;
     justify-content: flex-end;
