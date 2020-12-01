@@ -157,8 +157,9 @@ margin-right:15px;
 
 main{
 position:absolute;
-left:25%;
 top:10%;
+left:25%;
+margin:5px;
 width:inherit;
 }
 
